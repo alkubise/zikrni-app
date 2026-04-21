@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1024331135018",
+    "project_id": "azkarapp-82a02",
+    "storage_bucket": "azkarapp-82a02.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024331135018:android:b5a61a290075ea0c7e2b53",
+        "android_client_info": {
+          "package_name": "com.layth.thikrni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024331135018-ge11bsjlcck5tramnk08jejttg54fraf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.layth.thikrni",
+            "certificate_hash": "7bd15a519abec8d93e3ff8ada940ef6ba342a67d"
+          }
+        },
+        {
+          "client_id": "1024331135018-im8tdckrt8f2bu4l85t3j5ll4kfnib24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsQR6r8MdrSfFz-sD37NCP3T8HNF2T_30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024331135018-im8tdckrt8f2bu4l85t3j5ll4kfnib24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
